@@ -7,8 +7,6 @@ An n8n workflow that combines two AI capabilities in one chat assistant:
 
 Ask in plain language, get answers from either source. No SQL, no manual searching through documents.
 
-![Workflow overview](images/workflow.png)
-
 ## What it does
 
 | Question | What happens |
